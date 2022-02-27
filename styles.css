@@ -16,8 +16,8 @@
   
   .container {
     position: relative;
-    min-width: 300px;
-    min-height: 400px;
+    min-width: 200px;
+    min-height: 300px;
     background: #8143c4;
     padding: 40px 30px 30px;
     border-radius: 20px;
